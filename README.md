@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, I'm Celal (Dzelal)!
 
-<!--
-**Celal-Dzelal/Celal-Dzelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**  
+I am currently a Fullstack Developer Bootcamp student with a passion for web development. I have a foundational understanding of HTML and CSS, and I'm excited to continue expanding my skills as I progress through my learning journey. I’m particularly drawn to the elegance of the color black and the strength of wolves, which inspire my creative approach to coding.
 
-Here are some ideas to get you started:
+🛠 **Skills & Technologies**  
+- **Frontend**: HTML, CSS (Basic Level)  
+- **Learning**: JavaScript, Backend Development, Fullstack Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Currently Learning**  
+- Fullstack Web Development  
+- Building responsive and interactive websites  
+- Strengthening my JavaScript and backend skills  
+
+🚀 **Projects**  
+Currently working on beginner-level projects to improve my frontend skills and soon to dive into more complex, fullstack projects.
+
+📫 **How to Reach Me**  
+- GitHub: [Link to your GitHub profile]  
+- LinkedIn: [Link to your LinkedIn profile]
