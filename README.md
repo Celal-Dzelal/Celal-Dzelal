@@ -16,5 +16,5 @@ I am currently a Fullstack Developer Bootcamp student with a passion for web dev
 Currently working on beginner-level projects to improve my frontend skills and soon to dive into more complex, fullstack projects.
 
 📫 **How to Reach Me**  
-- GitHub: [Link to your GitHub profile]  
-- LinkedIn: [Link to your LinkedIn profile]
+- GitHub: https://github.com/Celal-Dzelal
+- LinkedIn: https://www.linkedin.com/in/celalselimbinay/
