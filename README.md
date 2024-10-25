@@ -1,7 +1,5 @@
 ## 👋 Hello, I'm Celal (Dzelal)!
 
-[howling_pixel_wolf__3_by_blossomarts_d6tg7lw.gif](https://github.com/Celal-Dzelal/Celal-Dzelal/blob/7a1c3f410f9bf113b3f46889340cf7226740711a/howling_pixel_wolf__3_by_blossomarts_d6tg7lw.gif)
-
 🎯 **About Me**  
 I am currently a Fullstack Developer Bootcamp student with a passion for web development. I have a foundational understanding of HTML and CSS, and I'm excited to continue expanding my skills as I progress through my learning journey. I’m particularly drawn to the elegance of the color black and the strength of wolves, which inspire my creative approach to coding.
 
