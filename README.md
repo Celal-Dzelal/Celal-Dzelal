@@ -18,5 +18,4 @@ Currently working on beginner-level projects to improve my frontend skills and s
 📫 **How to Reach Me**  
 - GitHub: https://github.com/Celal-Dzelal
 - LinkedIn: https://www.linkedin.com/in/celalselimbinay/
-![Demo](path/to/your/demo.gif)
 
