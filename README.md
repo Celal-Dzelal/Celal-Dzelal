@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
   </a>
 
+
+<div align="center">
+
+
+
 ![Animasyon](https://github.com/Celal-Dzelal/Celal-Dzelal/blob/1a39f9b7e7cee1b363740d177f9e0fda841cde77/wolf.gif)
 
 🎯 **About Me**  
@@ -22,5 +27,7 @@ I am currently a Fullstack Developer Bootcamp student with a passion for web dev
 Currently working on beginner-level projects to improve my frontend skills and soon to dive into more complex, fullstack projects.
 
 📫 **How to Reach Me**  
-- GitHub: https://github.com/Celal-Dzelal
-- LinkedIn: https://www.linkedin.com/in/celalselimbinay/
+- GitHub: [https://github.com/Celal-Dzelal](https://github.com/Celal-Dzelal)  
+- LinkedIn: [https://www.linkedin.com/in/celalselimbinay/](https://www.linkedin.com/in/celalselimbinay/)
+
+</div>
