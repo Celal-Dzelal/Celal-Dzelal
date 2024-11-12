@@ -1,4 +1,8 @@
-## 👋 Hello, I'm Celal (Dzelal)!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Celal-Dzelal.Celal-Dzelal">
+<h1 align="center">
+  <a href="https://github.com/Celal-Dzelal">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
+  </a>
 
 ![Animasyon](https://github.com/Celal-Dzelal/Celal-Dzelal/blob/1a39f9b7e7cee1b363740d177f9e0fda841cde77/wolf.gif)
 
