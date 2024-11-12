@@ -8,14 +8,13 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd3OW9zNHNoNjIwODV1bnNjaDVudmljN2o1c25pZXdoZTkzYWkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i1eCtd7UqOvmFg5OH6/giphy.gif" width="100" alt="Animation">
 </p>
-<hr/>
 
 <h3 align="center">👨‍💻 ABOUT ME 👨‍💻</h3>
 <p align="justify" width="50">I am currently a Fullstack Developer Bootcamp student with a passion for web development. I have a foundational understanding of HTML and CSS, and I'm excited to continue expanding my skills as I progress through my learning journey. I’m particularly drawn to the elegance of the color black and the strength of wolves, which inspire my creative approach to coding.</p>
 
 <hr/>
 
-<h2 align="center">⚡ Skills & Technologies ⚡</h2>
+<h3 align="center">⚡ Skills & Technologies ⚡</h3>
 <p align="center">Frontend</h3>
 <p align="center">HTML (Basic Level)</p>
 <p align="center">CSS (Basic Level)</p>
@@ -41,7 +40,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Status ⚡</h2>
+<h3 align="center">⚡ Status ⚡</h3>
 <br>
 <p align=justify>
   <div align=justify>
