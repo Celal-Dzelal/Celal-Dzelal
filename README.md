@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Celal-Dzelal.Celal-Dzelal">
-<h1 align="center">
-  <a href="https://github.com/Celal-Dzelal">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&multiline=true&width=600&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
-  </a>
+<h1 align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=15&duration=2500&pause=500&color=36BCF7EB&center=true&vCenter=true&multiline=true&width=435&lines=%E2%9A%A1+Hello+There+%E2%9A%A1;Are+you+ready+to+go+back+to+the+future%3F+)](https://git.io/typing-svg)
 
   
 <p align="center">
