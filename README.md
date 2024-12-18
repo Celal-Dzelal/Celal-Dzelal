@@ -3,7 +3,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=15&duration=2500&pause=500&color=36BCF7EB&center=true&vCenter=true&multiline=true&width=435&lines=%E2%9A%A1+Hello+There+%E2%9A%A1;Are+you+ready+to+go+back+to+the+future%3F+)](https://git.io/typing-svg)
 
-  
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd3OW9zNHNoNjIwODV1bnNjaDVudmljN2o1c25pZXdoZTkzYWkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i1eCtd7UqOvmFg5OH6/giphy.gif" width="150" alt="Animation">
 </p>
@@ -35,6 +34,9 @@
   <a href="https://github.com/Celal-Dzelal" target="_blank">
     <img src="square-github-brands-solid.svg" alt="GitHub Icon" width="50"/>
   </a>
+  <a href="#" target="_blank">
+    <img src="user-solid.svg" alt="Personal Portfolio WebSite" width="50"/>
+  </a>
 </p>
 
 <hr/>
@@ -43,21 +45,16 @@
 <br>
 <p align=justify>
   <div align=justify>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Celal-Dzelal&theme=jolly&hide_border=true" title="Open in new tab">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Celal-Dzelal&theme=jolly&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Celal-Dzelal&theme=great-gatsby&hide_border=true" title="Open in new tab">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Celal-Dzelal&theme=great-gatsby&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Celal-Dzelal&theme=jolly&hide_border=true" title="Open in new tab">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Celal-Dzelal&show_icons=true&theme=jolly&hide_border=true" />
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Celal-Dzelal&theme=great-gatsby&hide_border=true" title="Open in new tab">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Celal-Dzelal&show_icons=true&theme=great-gatsby&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Celal-Dzelal&theme=jolly&langs_count=8&layout=compact&hide_border=true" title="Open in new tab">
-      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celal-Dzelal&theme=jolly&langs_count=8&layout=compact&hide_border=true" />
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Celal-Dzelal&theme=great-gatsby&langs_count=8&layout=compact&hide_border=true" title="Open in new tab">
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celal-Dzelal&theme=great-gatsby&langs_count=8&layout=compact&hide_border=true" />
     </a>
   </div>
-
-
-
-
-
