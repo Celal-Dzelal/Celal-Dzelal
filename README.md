@@ -28,16 +28,20 @@
 
 <h3 align="center">📡 How to Reach Me 📡</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/celalselimbinay/" target="_blank" >
-    <img src="linkedin-brands-solid.svg" alt="LinkedIn Icon" width="50" />
+  <a href="https://www.linkedin.com/in/celalselimbinay/" target="_blank">
+    <img src="linkedin-brands-solid.svg" alt="LinkedIn Icon" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Celal-Dzelal" target="_blank">
     <img src="square-github-brands-solid.svg" alt="GitHub Icon" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="user-solid.svg" alt="Personal Portfolio WebSite" width="50"/>
+    <img src="user-solid.svg" alt="Personal Portfolio WebSite" width="40"/>
   </a>
 </p>
+
+
 
 <hr/>
 
