@@ -8,21 +8,40 @@
 </p>
 
 <h3 align="center">👨‍💻 ABOUT ME 👨‍💻</h3>
-<p align="justify" width="50">I am currently a Fullstack Developer Bootcamp student with a passion for web development. I have a foundational understanding of HTML and CSS, and I'm excited to continue expanding my skills as I progress through my learning journey. I’m particularly drawn to the elegance of the color black and the strength of wolves, which inspire my creative approach to coding.</p>
+<p align="justify" width="50">I am currently a Fullstack Developer Bootcamp student, having completed the FullStack modules and now transitioning into backend development. With a strong foundation in HTML, CSS, and various frontend technologies, I am eager to deepen my backend expertise. I’m particularly drawn to the elegance of the color black and the strength of wolves, which inspire my creative approach to coding.</p>
 
 <hr/>
 
 <h3 align="center">⚡ Skills & Technologies ⚡</h3>
-<p align="center">Frontend</h3>
-<p align="center">HTML (Basic Level)</p>
-<p align="center">CSS (Basic Level)</p>
+<h4 align="center"> 🚀 Advanced </h4>
+<p align="center">React.js</p>
+<p align="center">JavaScript (ES6+) </p>
+<p align="center">SCSS (SASS)</p>
+<p align="center">React Router DOM</p>
+<p align="center">Axios</p>
+<p align="center">React Bootstrap</p>
+<h4 align="center">🔥 Intermediate </h4>
+<p align="center">Redux / Redux Toolkit</p>
+<p align="center">Firebase</p>
+<p align="center">Material UI(MUI)</p>
+<p align="center">React Toastify</p>
+<p align="center">CSS Modules</p>
+<p align="center">Styled Components</p>
+<p align="center">Local Storage</p>
+<p align="center">Chart.js</p>
+<p align="center">Postman</p>
+<p align="center">TypeScript</p>
+<p align="center">Next.js</p>
+<p align="center">Cypress</p>
 
 <hr/>
 
 <h3 align="center">⏳ Currently Learning ⏳</h3>
-<p align="center">Fullstack Web Development</p>
-<p align="center">Building responsive and interactive websites </p>
-<p align="center">Strengthening my JavaScript and backend skills </p>
+<p align="center">Backend Development</p>
+<p align="center">SQL </p>
+<p align="center">Node.JS / Express </p>
+<p align="center">Database </p>
+<p align="center">Docker </p>
 
 <hr/>
 
