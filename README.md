@@ -43,7 +43,6 @@
     <td align="center">
       <h4>Styling & CSS Frameworks</h4>
       <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat" />
-      <img src="https://img.shields.io/badge/React%20Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat" />
