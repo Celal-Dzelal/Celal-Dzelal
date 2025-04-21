@@ -5,14 +5,18 @@
   </a>
 </p>
 
-
-<h1 align="center"> 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=15&duration=2500&pause=500&color=bc1fd1&center=true&vCenter=true&multiline=true&width=435&lines=%E2%9A%A1+Hello+There+%E2%9A%A1;Are+you+ready+to+go+back+to+the+future%3F+)](https://git.io/typing-svg)
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=F700FF&vCenter=true&center=true&width=600&lines=🟣+SYSTEM+BOOTING+UP...;🟢+WELCOME+TO+D.Z.E.L.;🔷+LOADING+NEO-RETRO+PORTAL...;⚡+INITIATING+TIME+LOOP+SEQUENCE+%E2%9C%94" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd3OW9zNHNoNjIwODV1bnNjaDVudmljN2o1c25pZXdoZTkzYWkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i1eCtd7UqOvmFg5OH6/giphy.gif" width="150" alt="Animation">
+  <img src="https://media.giphy.com/media/J1VYZ9gL3t5YwjduJg/giphy.gif" width="200" alt="Glitching Animation">
+</p>
+
+<h3 align="center"><code>D.Z.E.L. // Celal Selim Binay aka Dzelal Selim Sokolovic</code></h3>
+
+<p align="center">
+  <em>"Code is my language. Time is my playground. Brutalism is my design."</em>
 </p>
 
 <h3 align="center">👤 ABOUT ME 👤</h3>
