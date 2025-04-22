@@ -10,8 +10,9 @@
 </h1>
 
 <p align="center">
-  ![D.Z.E.L](glitched-image.gif)
+  <img src="glitched-image.gif" alt="D.Z.E.L" width="200"/>
 </p>
+
 
 <h3 align="center"><code>Celal Selim Binay aka Dzelal Selim Sokolovic</code></h3>
 
