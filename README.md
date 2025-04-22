@@ -10,10 +10,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/J1VYZ9gL3t5YwjduJg/giphy.gif" width="200" alt="Glitching Animation">
+  ![D.Z.E.L](glitched-image.gif)
 </p>
 
-<h3 align="center"><code>D.Z.E.L. // Celal Selim Binay aka Dzelal Selim Sokolovic</code></h3>
+<h3 align="center"><code>Celal Selim Binay aka Dzelal Selim Sokolovic</code></h3>
 
 <p align="center">
   <em>"Code is my language. Time is my playground. Brutalism is my design."</em>
@@ -88,7 +88,6 @@
   </tr>
 </table>
 
-
 <hr/>
 
 <h3 align="center"> 🧑‍🤝‍🧑 Organization 🧑‍🤝‍🧑 </h3>
@@ -113,7 +112,3 @@
 </table>
 
 <hr/>
-
-
-
-
