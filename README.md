@@ -20,12 +20,16 @@
   <em>"Code is my language. Time is my playground. Brutalism is my design."</em>
 </p>
 
-<h3 align="center">👤 ABOUT ME 👤</h3>
-<p align="justify" width="50">Hi, I'm Dzelal (Celal)! I've completed my frontend development training and am currently diving into backend development. My current goal is to become a fullstack developer, and I'm passionately working towards mastering both sides of web development. I enjoy tackling challenges, learning new technologies, and building efficient and scalable applications.</p>
+<h3 align="center"> 👁️ SYSTEM OVERRIDE: IDENTITY LOGGED </h3>
+<p align="center">
+  🚀 <b>Fullstack Developer in progress</b><br>
+  🧠 <b>Obsessed with clean code, scalable systems & glitchy aesthetics</b><br>
+  🕶️ <b>Neo-wanderer crafting brutal, bold and future-proof webscapes</b>
+</p>
 
 <hr/>
 
-<h3 align="center">⚡ Tech and Tools ⚡</h3>
+<h3 align="center">⚡️ TECH TOOLSET</h3>
 
 <table align="center">
   <tr>
@@ -91,12 +95,16 @@
 
 <hr/>
 
-<h3 align="center"> 🧑‍🤝‍🧑 Organization 🧑‍🤝‍🧑 </h3>
-<p align="justify" width="50"> **CodEdu**: We aim to build a community where individuals can collaborate, learn from each other, and innovate through coding. We believe in the power of shared knowledge, and through our projects, we encourage exploration, experimentation, and practical learning. </p>
+<h3 align="center">👾 COLLECTIVE INTEL: CodEdu</h3>
+<p align="center">
+  <em><b>We code. We educate. We evolve.</b></em><br>
+  Building an open-source, brutalist learning loop for devs of the future.<br>
+  <strong>Enter the simulation. Break the limits. Repeat the loop.</strong>
+</p>
 
 <hr/>
 
-<h3 align="center">📊 Github Stats 📊</h3>
+<h3 align="center">📊 SYSTEM MONITORING</h3>
 
 ![Contribute](https://github-readme-activity-graph.vercel.app/graph?username=Celal-Dzelal&theme=dark&hide_border=true&bg_color=0d1117&line=bc1fd1&point=5c1666&radius=22&from=1&height=300&custom_title=Celal-Dzelal-contributions)
 
@@ -113,3 +121,8 @@
 </table>
 
 <hr/>
+
+<p align="center">
+  ⛓ <i>This README is a D.Z.E.L. system file. Unauthorized replication may result in a timeline disturbance.</i><br>
+  ✉️ Contact: <a href="mailto:celalselimbinay@gmail.com">celalselimbinay@gmail.com</a>
+</p>
