@@ -124,5 +124,5 @@
 
 <p align="center">
   ⛓ <i>This README is a D.Z.E.L. system file. Unauthorized replication may result in a timeline disturbance.</i><br>
-  ✉️ Contact: <a href="mailto:celalselimbinay@gmail.com">celalselimbinay@gmail.com</a>
+  ✉️ Contact: <a href="mailto:binaycelalselim@gmail.com">binaycelalselim@gmail.com</a>
 </p>
