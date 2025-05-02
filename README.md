@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="glitched-image.gif" alt="D.Z.E.L" width="200"/>
+  <img src="image.gif" alt="D.Z.E.L" width="200"/>
 </p>
 
 
